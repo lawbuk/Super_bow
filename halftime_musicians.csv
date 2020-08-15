@@ -1,4 +1,4 @@
-﻿super_bowl,musician,num_songs
+super_bowl,musician,num_songs
 52,Justin Timberlake,11
 52,University of Minnesota Marching Band,1
 51,Lady Gaga,7
@@ -12,7 +12,7 @@
 49,Katy Perry,8
 49,Lenny Kravitz,1
 49,Missy Elliott,3
-49,Arizona State University Sun Devil Marching Band,NaN
+49,Arizona State University Sun Devil Marching Band,
 48,Bruno Mars,6
 48,Red Hot Chili Peppers,1
 47,Beyoncé,7
@@ -33,7 +33,7 @@
 43,Bruce Springsteen and the E Street Band,4
 42,Tom Petty & the Heartbreakers,4
 41,Prince,7
-41,Florida A&M University Marching 100 Band,NaN
+41,Florida A&M University Marching 100 Band,
 40,The Rolling Stones,3
 39,Paul McCartney,4
 38,Jessica Simpson,1
@@ -42,8 +42,8 @@
 38,Nelly,1
 38,Kid Rock,2
 38,Justin Timberlake,1
-38,The Ocean of Soul Marching Band,NaN
-38,The Spirit of Houston Cougar Marching Band,NaN
+38,The Ocean of Soul Marching Band,
+38,The Spirit of Houston Cougar Marching Band,
 37,Shania Twain,2
 37,No Doubt,2
 37,Sting,1
@@ -81,55 +81,55 @@
 28,Wynonna Judd,2
 27,Michael Jackson,5
 26,Gloria Estefan,2
-26,University of Minnesota Marching Band,NaN
+26,University of Minnesota Marching Band,
 25,New Kids on the Block,2
 24,Pete Fountain,1
 24,Doug Kershaw,1
 24,Irma Thomas,1
-24,Pride of Nicholls Marching Band,NaN
-24,The Human Jukebox,NaN
-24,Pride of Acadiana,NaN
+24,Pride of Nicholls Marching Band,
+24,The Human Jukebox,
+24,Pride of Acadiana,
 23,Elvis Presto,7
 22,Chubby Checker,2
-22,San Diego State University Marching Aztecs,NaN
-22,Spirit of Troy,NaN
+22,San Diego State University Marching Aztecs,
+22,Spirit of Troy,
 21,Grambling State University Tiger Marching Band,8
 21,Spirit of Troy,8
-20,Up with People,NaN
-19,Tops In Blue,NaN
-18,The University of Florida Fightin' Gator March...,7
+20,Up with People,
+19,Tops In Blue,
+18,The University of Florida Fightin' Gator Marching Band,7
 18,The Florida State University Marching Chiefs,7
-17,Los Angeles Unified School District All City H...,NaN
-16,Up with People,NaN
-15,The Human Jukebox,NaN
-15,Helen O'Connell,NaN
-14,Up with People,NaN
-14,Grambling State University Tiger Marching Band,NaN
-13,Ken Hamilton,NaN
-13,Gramacks,NaN
-12,Tyler Junior College Apache Band,NaN
-12,Pete Fountain,NaN
-12,Al Hirt,NaN
-11,Los Angeles Unified School District All City H...,NaN
-10,Up with People,NaN
-9,Mercer Ellington,NaN
-9,Grambling State University Tiger Marching Band,NaN
-8,University of Texas Longhorn Band,NaN
-8,Judy Mallett,NaN
-7,University of Michigan Marching Band,NaN
-7,Woody Herman,NaN
-7,Andy Williams,NaN
-6,Ella Fitzgerald,NaN
-6,Carol Channing,NaN
-6,Al Hirt,NaN
-6,United States Air Force Academy Cadet Chorale,NaN
-5,Southeast Missouri State Marching Band,NaN
-4,Marguerite Piazza,NaN
-4,Doc Severinsen,NaN
-4,Al Hirt,NaN
-4,The Human Jukebox,NaN
-3,Florida A&M University Marching 100 Band,NaN
-2,Grambling State University Tiger Marching Band,NaN
-1,University of Arizona Symphonic Marching Band,NaN
-1,Grambling State University Tiger Marching Band,NaN
-1,Al Hirt,NaN
+17,Los Angeles Unified School District All City Honor Marching Band,
+16,Up with People,
+15,The Human Jukebox,
+15,Helen O'Connell,
+14,Up with People,
+14,Grambling State University Tiger Marching Band,
+13,Ken Hamilton,
+13,Gramacks,
+12,Tyler Junior College Apache Band,
+12,Pete Fountain,
+12,Al Hirt,
+11,Los Angeles Unified School District All City Honor Marching Band,
+10,Up with People,
+9,Mercer Ellington,
+9,Grambling State University Tiger Marching Band,
+8,University of Texas Longhorn Band,
+8,Judy Mallett,
+7,University of Michigan Marching Band,
+7,Woody Herman,
+7,Andy Williams,
+6,Ella Fitzgerald,
+6,Carol Channing,
+6,Al Hirt,
+6,United States Air Force Academy Cadet Chorale,
+5,Southeast Missouri State Marching Band,
+4,Marguerite Piazza,
+4,Doc Severinsen,
+4,Al Hirt,
+4,The Human Jukebox,
+3,Florida A&M University Marching 100 Band,
+2,Grambling State University Tiger Marching Band,
+1,University of Arizona Symphonic Marching Band,
+1,Grambling State University Tiger Marching Band,
+1,Al Hirt,
